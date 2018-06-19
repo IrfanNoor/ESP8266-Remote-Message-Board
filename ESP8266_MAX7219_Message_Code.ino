@@ -62,7 +62,7 @@ void setup() {
   matrix.setRotation(2, 1);  // The first display is position upside down
   matrix.setRotation(3, 1);  // The first display is position upside down
   wait    = 25;
-  message = "Message Board (C) D.L.Bird 2017";
+  message = "Message Board (C) Iteam.co 2018";
   display_message(message); // Display the message
   wait    = 50;
   message = "Welcome...";
